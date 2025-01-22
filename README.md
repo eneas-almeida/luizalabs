@@ -1,6 +1,6 @@
 # Luizalabs - Desafio
 
-> **Desafio Luizalabs** é uma aplicação para inserção de produtos a lista de favoritos.<br />
+> **Desafio Luizalabs** é uma aplicação para inserção de produtos a lista de favoritos. 👉 <a href="http://luizalabs.online"> luizalabs.online</a><br />
 
 <p align="center"><img src="./media/logos/luizalabs-logo.png" width="300"/></p>
 
@@ -13,7 +13,9 @@
 ## ⚓ Links
 
 👉 [Backend](https://github.com/eneas-almeida/luizalabs-backend)<br />
-👉 [Frontend](https://github.com/eneas-almeida/luizalabs-frontend)
+👉 [Frontend](https://github.com/eneas-almeida/luizalabs-frontend)<br />
+
+👉 [http://luizalabs.online](http://luizalabs.online)
 
 **Observação**: Em cada repositório contém as instruções necessárias de como rodar tanto o backend quanto o frontend.
 
