@@ -1,6 +1,6 @@
-# Luizalabs - Desafio
+# Luizalabs
 
-> **Desafio Luizalabs** é uma aplicação para inserção de produtos a lista de favoritos. 👉 <a href="http://luizalabs.online"> luizalabs.online</a><br />
+> **Luizalabs** é uma aplicação para inserção de produtos a lista de favoritos. 👉 <a href="http://luizalabs.online"> luizalabs.online</a><br />
 
 <p align="center"><img src="./media/logos/luizalabs-logo.png" width="300"/></p>
 
